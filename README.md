@@ -1,4 +1,5 @@
 # Payload Website Template
+[![Project Board](https://img.shields.io/badge/board-peacockery%20roadmap-blue)](https://github.com/orgs/peacockery/projects)
 Use this template when creating new NextJS sites that will have a CMS. 
 
 This is the official [Payload Website Template](https://github.com/payloadcms/payload/blob/main/templates/website). Use it to power websites, blogs, or portfolios from small to enterprise. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
